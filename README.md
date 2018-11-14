@@ -2,5 +2,5 @@
 
     '''
     make
-    ./raytracer mesh_file.xml
+    ./raytracer bunny.xml
     '''
